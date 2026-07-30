@@ -189,6 +189,7 @@ with an API client and `saveOverlay()` with a POST, and the rest of the app is u
 │   ├── views/              # pure state → HTML per surface, plus the drawer
 │   └── util/               # dates, deterministic RNG, escaped templating
 ├── README.md               # product and project guide
+├── DEPLOY.md               # hosting requirements and what this is not
 └── MVP-NOTES.md            # original prototype notes
 ```
 
