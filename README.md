@@ -1,12 +1,14 @@
 # sportsmanager
 
-### A human-directed operating system for sports organizations.
+### A human-directed operations dashboard prototype for sports organizations.
+
+**Status: interactive front-end concept.** Work feeds, agent activity, and approval flows are simulated in the browser. This repository does not connect to real sports systems or operate autonomous agents. Use it to explore workflow design with synthetic examples.
 
 **sportsmanager** is a control plane for running the work behind a federation, league, club, or tournament: schedules, eligibility, player pathways, training, communications, finance, performance, and championship operations—coordinated by specialist agents and governed by one accountable human.
 
 > **One human. One well-built agent team. No black-box decisions.**
 
-[Open the prototype](./index.html) · [View the roadmap](#roadmap) · [Contributing](#contributing)
+[View the prototype source](./index.html) · [View the roadmap](#roadmap) · [Contributing](#contributing)
 
 ---
 
